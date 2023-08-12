@@ -8,7 +8,7 @@ export default function Home() {
           Hi There!
         </h1>
         <div className='text-md sm:text-lg md:text-xl lg:text-2xl text-justify'>
-          <p className='py-12' id='about'>My name is <span className='underline font-semibold'>Muhammad Azzam</span>, I am currently a student at the University of Indonesia. I am from Jakarta, and I'm currently trying to explore my passion for <span className='underline font-semibold'>Programming</span> and I'm also working to expand my <span className='underline font-semibold'>network & experience</span>.</p>
+          <p className='py-12' id='about'>My name is <span className='underline font-semibold'>Muhammad Azzam</span>, I am currently a student at the University of Indonesia. I am from Jakarta, and I&apos;m currently trying to explore my passion for <span className='underline font-semibold'>Programming</span> and I&apos;m also working to expand my <span className='underline font-semibold'>network & experience</span>.</p>
         </div>
       </div>
       <div className='container bg-amber-100 py-6 mt-6 px-12 rounded-3xl font-mono'>
@@ -17,9 +17,9 @@ export default function Home() {
             Experiences:
           </div>
           <ul className='list-disc pt-4'>
-            <li>Harvard's CS50 online Course</li>
+            <li>Harvard&apos;s CS50 online Course</li>
             <li>HTML, Tailwindcss, basic js</li>
-            <li>Harvard's CS50 online Course</li>
+            <li>python, cpp</li>
           </ul>
         </div>
         <div className='text-md sm:text-lg md:text-xl lg:text-2xl text-justify'>
