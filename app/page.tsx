@@ -1,5 +1,3 @@
-import Image from 'next/image'
-
 export default function Home() {
   return (
     <main className='bg-blue-500 bg-opacity-30 h-full px-6 sm:px-12 md:px-18 lg:px-24 xl:px-30 pt-6 z-0 pb-6'>
@@ -25,7 +23,6 @@ export default function Home() {
         <div className='text-md sm:text-lg md:text-xl lg:text-2xl text-justify'>
         </div>
       </div>
-      
     </main>
   )
 }
