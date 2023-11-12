@@ -8,7 +8,6 @@ const Footer = () => {
       <ul className='p-2 items-center'>
         <li id='insta'>
           <a href="https://www.instagram.com/m.azzam.azis" target='_blank' className='flex py-2'>
-            <div>aa</div>
             <Image
               className='float-left mr-2 md:text-xl'
               src="/instagram.png"
